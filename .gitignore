@@ -12,3 +12,4 @@ chart.html
 # Virtual environment for Python
 venv/
 virtualenv/
+.venv
